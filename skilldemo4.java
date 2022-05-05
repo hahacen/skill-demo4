@@ -1,3 +1,6 @@
 public class skilldemo4{
-//add method code here
+
+    public static int add(int n,int m){
+        return m+n;
+    }
 }
